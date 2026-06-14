@@ -1,0 +1,12 @@
+# user-defaults.yml
+
+# Default path for user home directories
+default_home_dir: /pool/home
+
+# List of directories to pre-create inside each user's home directory
+pre_create_folders:
+  - Documents
+  - Downloads
+  - Music
+  - Pictures
+  - Videos
