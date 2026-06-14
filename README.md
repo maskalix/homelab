@@ -1,3 +1,5 @@
+<img src="https://typestor.lnln.eu//brand/lnln/image/t_w.svg" alt="logo" height="48" /> 
+
 # homelab
 
 A personal library of self-hosted infrastructure configurations, Docker Compose files, system scripts, and tooling resources maintained for a home server environment.
